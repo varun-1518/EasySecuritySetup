@@ -1,5 +1,5 @@
 
-#EasySecuritySetup
+# EasySecuritySetup
 ---
 
 ## Cybersecurity Tool Setup Script
